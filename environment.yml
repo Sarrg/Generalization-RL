@@ -1,0 +1,16 @@
+name: generalization-rl
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9.7
+  - ipykernel
+  - jupyter
+  - torch
+  - torchvision
+  - tqdm
+  - scipy
+  - numpy
+  - matplotlib
+  - gym
+  - umap-learn
